@@ -8,3 +8,6 @@ Los archivos que se encuentran subidos tienen que estar en la misma carpeta del 
 
 # Autores
 Presentado por: Juan Mateo Alban, Jorge Manuel Castillo, Lina Daney Hoyos.
+
+# Enlace del vidéo la explicación del codigo
+https://www.youtube.com/watch?v=SlRpvWn8CXU
